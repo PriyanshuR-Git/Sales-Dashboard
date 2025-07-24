@@ -19,9 +19,9 @@ This repository contains an interactive Power BI dashboard that analyzes and vis
 
 ## 📁 Project Structure
 📦 E-Commerce-Sales-Dashboard/
-├── 📊 Sales Performance Dashboard.pbix
-├── 📈 Sales Data.xlsx
-└── 📄 README.md
+- 📊 Sales Performance Dashboard.pbix
+- 📈 Sales Data.xlsx
+- 📄 README.md
 ## 📌 Key Business Metrics
 
 - **Total Revenue**
